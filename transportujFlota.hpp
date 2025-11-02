@@ -2,8 +2,6 @@
 
 #include "Stocznia.hpp"
 
-#include <print>
-
 unsigned int transportujFlota(unsigned int towar)
 {
     if(towar == 0)
